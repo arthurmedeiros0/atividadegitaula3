@@ -15,3 +15,7 @@ function divisao(a, b) {
     }
     return a / b;
 }
+
+function potencia(a, b) {
+  return Math.pow(a, b);
+}
